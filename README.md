@@ -9,7 +9,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img href="https://discord.gg/eh7jCyHmnF" src="https://skillicons.dev/icons?i=cs,python,git" />
+  <img src="https://skillicons.dev/icons?i=cs,python,git" />
 </p>
 
 <p align="center">

@@ -2,7 +2,6 @@
 <h3 align="left">A beginning developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senduu&label=Profile%20views&color=0e75b6&style=flat" alt="senduu" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/eh7jCyHmnF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sendu_" height="30" width="40" /></a>

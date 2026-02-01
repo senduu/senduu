@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senduu&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senduu&theme=radical&hide_border=true" />
 </p>

@@ -13,6 +13,6 @@
 </p>
 <br>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senduu&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=senduu&theme=github_dark" />
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senduu&theme=github_dark&utcOffset=3" />
 </p>

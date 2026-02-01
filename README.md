@@ -12,6 +12,7 @@
   <img src="https://skillicons.dev/icons?i=cs,python,git" />
 </p>
 
+</p>
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senduu&theme=tokyonight" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senduu&theme=tokyonight" />

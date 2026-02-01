@@ -11,3 +11,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,git" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senduu&layout=compact&theme=transparent&hide_border=true" />
+</p>

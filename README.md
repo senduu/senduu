@@ -10,4 +10,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<img src="https://metrics.lecoq.io/senduu?template=classic&languages=1&languages.analysis=1&languages.details=1&languages.recent.load=300&languages.recent.days=14" />
+<p align="center">
+  <img src="https://metrics.lecoq.io/senduu" />
+</p>

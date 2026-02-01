@@ -1,5 +1,4 @@
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+senduu" alt="Typing SVG">
-<h3 align="center">A beginning developer from Russia</h3>
+<p align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+senduu;A+beginning+developer+from+Russia" alt="Typing SVG" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=senduu&label=Profile%20views&color=0e75b6&style=flat" alt="senduu" /> 
 <h3 align="center">Connect with me:</h3>

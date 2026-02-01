@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm senduu</h1>
-<h3 align="left">A beginning developer from Russia</h3>
+<h3 align="center">A beginning developer from Russia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=senduu&label=Profile%20views&color=0e75b6&style=flat" alt="senduu" /> 
 <h3 align="left">Connect with me:</h3>

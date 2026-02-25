@@ -4,11 +4,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://t.me/nullyo" target="_blank">
-  <img align="center"
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg"
-       alt="telegram"
-       height="30"
-       width="40" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </p>
 

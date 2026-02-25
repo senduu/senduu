@@ -5,10 +5,11 @@
 <p align="center">
 <a href="https://t.me/nullyo" target="_blank">
   <img align="center"
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
+       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg"
        alt="telegram"
        height="30"
-       width="40" />
+       width="40"
+       style="filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(176deg) brightness(118%) contrast(119%);" />
 </a>
 </p>
 

@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://t.me/nullyo" target="_blank">
+<a href="https://t.me/za2pook" target="_blank">
   <img align="center"
        src="https://cdn.simpleicons.org/telegram/2CA5E0"
        height="30"

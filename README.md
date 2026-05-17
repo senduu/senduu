@@ -13,7 +13,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=rust,python,git,vscode" />
 </p>
 <br>
 <p align="center">

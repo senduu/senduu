@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN6a3JuYzV1dW4wN3FvcGRia21iYmRqcXM4aHhvbDl4bzV5Mnc0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Zx0GjghUUF6cGXFk/giphy.gif" width="100%" alt="Banner"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd3NHdzN3BlMDJhOWp1djQyMmx3dHc1MzhzY2RlMDU1ZGVyY2Q4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cSdL9nkmQ868rHgUu7/giphy.gif" width="100%" alt="Banner"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/za2pook" target="_blank">

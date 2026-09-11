@@ -1,13 +1,10 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/za2pook" target="_blank">
-  <img align=""
-       src="https://cdn.simpleicons.org/telegram/2CA5E0"
-       height="30"
-       width="40"/>
-</a>
-</p>
+# Connect with me:
+[![Telegram](https://shields.io)](ВАША_ССЫЛКА_НА_ТЕЛЕГРАМ)
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,python,git,vscode" />
+  <img src="https://githubusercontent.com" alt="R" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Python" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="Git" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="VSCode" width="40" height="40"/>
+</p>

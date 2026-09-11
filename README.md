@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm senduu</h1>
-<h3 align="center">A beginning developer from Russia</h3>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://t.me/za2pook" target="_blank">

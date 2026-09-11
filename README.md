@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXd3NHdzN3BlMDJhOWp1djQyMmx3dHc1MzhzY2RlMDU1ZGVyY2Q4dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cSdL9nkmQ868rHgUu7/giphy.gif" width="100%" alt="Banner"/>
 
-<hr style="border: 1px solid #30363d;" />
+<hr style="border: none; border-top: 1px solid #21262d; margin: 15px 0;" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<img src="<div class="https://surl.li/pfyjsh.gif" width="100%" alt="Banner"/>
+<img src="<div class="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWN6a3JuYzV1dW4wN3FvcGRia21iYmRqcXM4aHhvbDl4bzV5Mnc0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Zx0GjghUUF6cGXFk/giphy.gif" width="100%" alt="Banner"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/za2pook" target="_blank">

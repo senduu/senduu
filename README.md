@@ -9,7 +9,6 @@
        src="https://cdn.simpleicons.org/telegram/2CA5E0"
        height="30"
        width="40"/> 
-</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
